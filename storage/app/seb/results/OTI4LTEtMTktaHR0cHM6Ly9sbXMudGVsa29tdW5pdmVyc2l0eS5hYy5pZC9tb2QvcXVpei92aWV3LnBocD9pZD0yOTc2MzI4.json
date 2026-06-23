@@ -1,0 +1,27 @@
+{
+  "ConfigHash": "402787e785c651ce31a02cb81c02b8433aea8f328a6541d4d99ef2cf48ae7b44",
+  "Dictionnary": {
+    "showTaskBar": true,
+    "allowWlan": false,
+    "showReloadButton": true,
+    "showTime": true,
+    "showInputLanguage": true,
+    "allowQuit": true,
+    "quitURLConfirm": true,
+    "audioControlEnabled": false,
+    "audioMute": false,
+    "allowSpellCheck": false,
+    "browserWindowAllowReload": true,
+    "URLFilterEnable": false,
+    "URLFilterEnableContentFilter": false,
+    "URLFilterRules": [],
+    "startURL": "https://lms.telkomuniversity.ac.id/mod/quiz/view.php?id=2976328",
+    "sendBrowserExamKey": true,
+    "browserWindowWebView": 3,
+    "examSessionClearCookiesOnStart": false,
+    "allowPreferencesWindow": false
+  },
+  "RequestHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "SerializedJson": "{\"allowPreferencesWindow\":false,\"allowQuit\":true,\"allowSpellCheck\":false,\"allowWlan\":false,\"audioControlEnabled\":false,\"audioMute\":false,\"browserWindowAllowReload\":true,\"browserWindowWebView\":3,\"examSessionClearCookiesOnStart\":false,\"quitURLConfirm\":true,\"sendBrowserExamKey\":true,\"showInputLanguage\":true,\"showReloadButton\":true,\"showTaskBar\":true,\"showTime\":true,\"startURL\":\"https://lms.telkomuniversity.ac.id/mod/quiz/view.php?id=2976328\",\"URLFilterEnable\":false,\"URLFilterEnableContentFilter\":false,\"URLFilterRules\":[]}",
+  "StartUrl": "https://lms.telkomuniversity.ac.id/mod/quiz/view.php?id=2976328"
+}
